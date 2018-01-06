@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6B202A50A8DE8FE17F1173DEF40070F9ADF73B88",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6B202A50A8DE8FE17F1173DEF40070F9ADF73B88" : 9223372036854775807,
+    "0C95B65696E9A539749DFAA390C0101FFDD41BCF" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "EA9E4D2D-13DC-4190-BC04-BB96D0809EB8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6B202A50A8DE8FE17F1173DEF40070F9ADF73B88" : "MiraclePill\/",
+    "0C95B65696E9A539749DFAA390C0101FFDD41BCF" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MiraclePill",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MiraclePill.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:dannyfilbert\/ios-app.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0C95B65696E9A539749DFAA390C0101FFDD41BCF"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:dannyfilbert\/miracle-pill.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6B202A50A8DE8FE17F1173DEF40070F9ADF73B88"
+    }
+  ]
+}
